@@ -1,3 +1,7 @@
+layout: page
+title: "Be Cautious with AWS EFS Pricing Model"
+permalink: docs/
+
 We recently completed the initial development and deployment of a bioinformatic pipeline with AWS ECS and EFS, and entered into the testing phase. Being cost conscious, I also kept an eye on the AWS cost associated with the tests. 
 Unexpected, EFS turned out to be quite costly, with around ~$40 per run, which can add up to $80 per study.  
 

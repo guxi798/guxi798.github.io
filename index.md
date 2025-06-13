@@ -1,8 +1,3 @@
-<h2>Recent Posts</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+layout: page
+title: "PAGE-TITLE"
+permalink: /_posts/

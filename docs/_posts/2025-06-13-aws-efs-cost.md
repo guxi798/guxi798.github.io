@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Be Cautious with AWS EFS Pricing Model"
+title: "How I Cut AWS EFS Costs by 90% with a Simple Configuration Change"
 date: 2025-06-19
 categories: blog
 tags: [AWS, cost-optimization, bioinformatics, cloud-computing, devops]
